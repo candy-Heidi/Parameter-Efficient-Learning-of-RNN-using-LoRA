@@ -80,7 +80,7 @@ These results demonstrate that LoRA can be effectively applied to RNNs without s
 - **Language:** Written in **Korean**
 - **Paper Link:** The full paper can be accessed at the link below  
 
-👉 **Paper:** [Link to the paper here]
+👉 **Paper:** https://drive.google.com/drive/folders/1a5hwtDlY_KU2EV2XmC2gKNA-y4MxT-cS?usp=sharing
 
 ---
 
